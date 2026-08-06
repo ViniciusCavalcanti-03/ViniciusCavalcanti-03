@@ -27,9 +27,7 @@
 - **Sistema de Controle de Estoque (CRUD)** — Python + Tkinter + SQLite, interface desktop completa com create/read/update/delete
 - **Análise de vendas com Pandas** — dataset de +100 mil registros, limpeza de dados, agrupamentos, rankings e visualizações
 
-### 📊 Estatísticas
+### 📫 Vamos trocar uma ideia?
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCavalcanti-03&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcanti-03&layout=compact)
-
-<sub>💬 Vamos trocar uma ideia? Me chama no LinkedIn ou manda um e-mail!</sub>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-cavalcanti-si)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:viniciuscavalcanti.dev@gmail.com)
