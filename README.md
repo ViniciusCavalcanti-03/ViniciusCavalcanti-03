@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="left">Olá, sou o Vinícius 👋</h1>
 
-<!--
-**ViniciusCavalcanti-03/ViniciusCavalcanti-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduado em **Sistemas de Informação** pela Uninassau Olinda (2022–2025)
+- 💻 Developer Jr | Data Analyst Jr | Automação com Python
+- 🤖 Foco em **Automação/RPA**, **Análise de Dados** e **IA aplicada**
+- 🔭 Atualmente aprofundando conhecimentos em Power BI, DevOps e Cloud (CESAR School)
+- 🧠 Aplico IA Prompting no dia a dia (ChatGPT, Claude, Gemini) para acelerar desenvolvimento e análise
+- 📫 Contato: viniciuscavalcanti.dev@gmail.com
+- 📍 Recife, PE — aberto a oportunidades presenciais, híbridas ou remotas
 
-Here are some ideas to get you started:
+### 🛠️ Stack técnica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-2196F3?style=flat-square&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### 🚀 Projetos em destaque
+
+- **Automação de emissão de notas fiscais** — Python + Selenium, robô que preenche e emite NFs automaticamente a partir de uma planilha de clientes
+- **Consulta automática de processos jurídicos** — Python + Selenium + WebDriver Manager, lê processos do Excel e atualiza status automaticamente
+- **Automação de relatório de vendas** — Python + PyAutoGUI + Pyperclip, extrai dados do Drive, calcula indicadores com Pandas e envia por e-mail
+- **Sistema de Controle de Estoque (CRUD)** — Python + Tkinter + SQLite, interface desktop completa com create/read/update/delete
+- **Análise de vendas com Pandas** — dataset de +100 mil registros, limpeza de dados, agrupamentos, rankings e visualizações
+
+### 📊 Estatísticas
+
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact)
+
+<sub>💬 Vamos trocar uma ideia? Me chama no LinkedIn ou manda um e-mail!</sub>
