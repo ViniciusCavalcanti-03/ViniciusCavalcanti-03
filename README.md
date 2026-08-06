@@ -29,7 +29,7 @@
 
 ### 📊 Estatísticas
 
-![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact)
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCavalcanti-03&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCavalcanti-03&layout=compact)
 
 <sub>💬 Vamos trocar uma ideia? Me chama no LinkedIn ou manda um e-mail!</sub>
