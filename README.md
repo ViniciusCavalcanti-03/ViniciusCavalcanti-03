@@ -23,7 +23,7 @@
 
 ### 🚀 Projetos em destaque
 
-- **Automação de emissão de notas fiscais** — Python + Selenium, robô que preenche e emite NFs automaticamente a partir de uma planilha de clientes
+- **Bazar Glow – E-commerce para Bazar de Roupas** — React + Vite + Tailwind CSS + JavaScript, Site de e-commerce para um bazar de roupas real, publicado na Vercel com deploy contínuo.
 - **Consulta automática de processos jurídicos** — Python + Selenium + WebDriver Manager, lê processos do Excel e atualiza status automaticamente
 - **Automação de relatório de vendas** — Python + PyAutoGUI + Pyperclip, extrai dados do Drive, calcula indicadores com Pandas e envia por e-mail
 - **Sistema de Controle de Estoque (CRUD)** — Python + Tkinter + SQLite, interface desktop completa com create/read/update/delete
