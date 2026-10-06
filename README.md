@@ -3,7 +3,6 @@
 - 🎓 Graduado em **Sistemas de Informação** pela Uninassau Olinda (2022–2025)
 - 💻 Developer Jr | Data Analyst Jr | Automação com Python
 - 🤖 Foco em **Desenvolvimento**,**Automação/RPA**, **Análise de Dados** e **IA aplicada**
-- 🔭 Atualmente aprofundando conhecimentos em Power BI, DevOps e Cloud (CESAR School)
 - 🧠 Aplico IA Prompting no dia a dia (ChatGPT, Claude, Gemini) para acelerar desenvolvimento e análise
 - 📫 Contato: viniciuscavalcanti.dev@gmail.com
 - 📍 Recife, PE — aberto a oportunidades presenciais, híbridas ou remotas
